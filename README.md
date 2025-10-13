@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @ralph-hu
-- 🌱 I’m currently learning JAVA
+- 🌱 I’m currently learning vibe coding
 - 📫 ralap.hu@gmail.com
